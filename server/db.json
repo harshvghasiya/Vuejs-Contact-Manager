@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "aghasiya",
+      "email": "asiya@gmail.com",
+      "mobile": "4434838",
+      "groupid": "4",
+      "photo_url": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "id": 3
+    },
+    {
+      "name": "harsh",
+      "email": "now@sdf.sdfs",
+      "mobile": "123456",
+      "groupid": "2",
+      "photo_url": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "id": 4
+    },
+    {
+      "name": "dsfsdfsdf",
+      "email": "harshvghasiya15@gmail.com",
+      "mobile": "09724434832",
+      "groupid": "3",
+      "photo_url": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "id": 5
+    },
+    {
+      "name": "teasadas",
+      "email": "hvghasiya15@gmail.com",
+      "mobile": "09724434832",
+      "groupid": "5",
+      "photo_url": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "id": 6
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}

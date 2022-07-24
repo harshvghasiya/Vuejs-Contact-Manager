@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}
